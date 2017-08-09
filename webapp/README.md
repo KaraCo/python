@@ -1,4 +1,4 @@
-# Usign Flask to create a web application with python
+# Usign Flask to Create a Web Application with Python :+1:
 
 [**Flask**](http://flask.pocoo.org/docs/0.12/) is a web microframework to power web applications. Although, Django is the most famous web framework, Flask it's a microframework that is generally easier to use than Django as it requires only a few lines of code to execute:
 
